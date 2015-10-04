@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c1430a80affc048f3b9f31010581aee5
+timeCreated: 1443976163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: armorchere
+    100002: Bone_002
+    100004: Bone_003
+    100006: Bone_004
+    100008: Bone_005
+    100010: Bone_006
+    100012: Bone_007
+    100014: Bone_008
+    100016: Bone_009
+    100018: Bone_010
+    100020: Bone_011
+    100022: Bone_012
+    100024: Bone_013
+    100026: Bone_014
+    100028: Bone_015
+    100030: Bone_016
+    100032: Bone_017
+    100034: Bone_018
+    100036: Bone_019
+    100038: Bone_020
+    100040: Bone_021
+    100042: Bone_022
+    100044: Bone_023
+    100046: Bone_024
+    100048: Bone_025
+    100050: Bone_026
+    100052: Bone_027
+    100054: Bone_028
+    100056: Bone_029
+    100058: Bone_030
+    100060: Bone_031
+    100062: Bone_032
+    100064: Bone_033
+    100066: Bone_034
+    100068: Bone_035
+    100070: Bone_036
+    100072: Bone_037
+    100074: Bone_038
+    100076: Bone_039
+    100078: Bone_040
+    100080: Bone_041
+    100082: Bone_042
+    100084: Bone_043
+    100086: Bone_044
+    100088: Bone_045
+    100090: Bone_046
+    100092: Bone_047
+    100094: Bone_048
+    100096: Bone_049
+    100098: Bone_050
+    100100: Bone_051
+    100102: Bone_052
+    100104: Bone_053
+    100106: Bone_054
+    100108: Bone_055
+    100110: Bone_056
+    100112: Bone_057
+    100114: Camera
+    100116: Lamp
+    100118: Lamp_001
+    100120: Lamp_002
+    100122: Plane
+    100124: //RootNode
+    400000: armorchere
+    400002: Bone_002
+    400004: Bone_003
+    400006: Bone_004
+    400008: Bone_005
+    400010: Bone_006
+    400012: Bone_007
+    400014: Bone_008
+    400016: Bone_009
+    400018: Bone_010
+    400020: Bone_011
+    400022: Bone_012
+    400024: Bone_013
+    400026: Bone_014
+    400028: Bone_015
+    400030: Bone_016
+    400032: Bone_017
+    400034: Bone_018
+    400036: Bone_019
+    400038: Bone_020
+    400040: Bone_021
+    400042: Bone_022
+    400044: Bone_023
+    400046: Bone_024
+    400048: Bone_025
+    400050: Bone_026
+    400052: Bone_027
+    400054: Bone_028
+    400056: Bone_029
+    400058: Bone_030
+    400060: Bone_031
+    400062: Bone_032
+    400064: Bone_033
+    400066: Bone_034
+    400068: Bone_035
+    400070: Bone_036
+    400072: Bone_037
+    400074: Bone_038
+    400076: Bone_039
+    400078: Bone_040
+    400080: Bone_041
+    400082: Bone_042
+    400084: Bone_043
+    400086: Bone_044
+    400088: Bone_045
+    400090: Bone_046
+    400092: Bone_047
+    400094: Bone_048
+    400096: Bone_049
+    400098: Bone_050
+    400100: Bone_051
+    400102: Bone_052
+    400104: Bone_053
+    400106: Bone_054
+    400108: Bone_055
+    400110: Bone_056
+    400112: Bone_057
+    400114: Camera
+    400116: Lamp
+    400118: Lamp_001
+    400120: Lamp_002
+    400122: Plane
+    400124: //RootNode
+    4300000: Plane
+    7400000: Default Take
+    7400002: breaks
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

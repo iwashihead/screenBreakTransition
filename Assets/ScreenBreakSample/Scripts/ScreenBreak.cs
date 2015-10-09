@@ -94,17 +94,21 @@ public class ScreenBreak : MonoBehaviour {
 	{
 		if (_playFlag == false) yield break;
 
-		_targetCamEnabled = targetCamera.enabled;
-		targetCamera.enabled = true;
-		breakAnim.gameObject.SetActive(true);
-
 		// カメラにレンダラテクスチャをセット.
 		foreach (var cam in cameras)
 			cam.targetTexture = renderTex;
-		
+
+		// 表示ON
 		renderMaterial.mainTexture = renderTex;
+		_targetCamEnabled = targetCamera.enabled;
+		targetCamera.enabled = true;
+		breakAnim.gameObject.SetActive(true);
+		// グレースケールを戻す.
+		if (renderMaterial.HasProperty("_Amount"))
+			renderMaterial.SetFloat("_Amount", 0f);
 
 		// 表示リセット.
+		breakAnim[resetAnimationName].speed = 10f;
 		breakAnim.Play(resetAnimationName);
 
 		// 色変化演出.
@@ -136,6 +140,7 @@ public class ScreenBreak : MonoBehaviour {
 		yield return new WaitForSeconds(afterTweenWaitTime);
 
 		// 再生開始.
+		breakAnim[breakAnimationName].speed = animationSpeed;
 		breakAnim.Play(breakAnimationName);
 
 		// 1フレ待機.

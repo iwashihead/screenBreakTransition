@@ -1,9 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScreenBreakSample/ScreenBreak.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScreenBreakSample/Shader/GrayscaleParametoric.shader">
     <Files>
-      <File FileName="Assets/ScreenBreakSample/Shader/GrayscaleParametoric.shader" Line="22" Column="18" />
-      <File FileName="Assets/ScreenBreakSample/ScreenBreak.cs" Line="69" Column="60" />
+      <File FileName="Assets/ScreenBreakSample/Shader/GrayscaleParametoric.shader" Line="59" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

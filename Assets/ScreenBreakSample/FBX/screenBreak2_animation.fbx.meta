@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: c1d6f6489871f4637bd55ac2ef289ac5
-timeCreated: 1444392682
+guid: a879df5d7ac484ab1b618e6ef4af3888
+timeCreated: 1444400521
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -274,8 +274,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Break
       takeName: Default Take
-      firstFrame: 0
-      lastFrame: 53
+      firstFrame: 1
+      lastFrame: 45
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -400,7 +400,7 @@ ModelImporter:
       takeName: Default Take
       firstFrame: 0
       lastFrame: 1
-      wrapMode: 1
+      wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -522,8 +522,8 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
+    globalScale: 100
+    meshCompression: 1
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

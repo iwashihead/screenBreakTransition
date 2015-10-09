@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: c1d6f6489871f4637bd55ac2ef289ac5
+timeCreated: 1444392682
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cell000
+    100002: cell001
+    100004: cell002
+    100006: cell003
+    100008: cell004
+    100010: cell005
+    100012: cell006
+    100014: cell007
+    100016: cell008
+    100018: cell009
+    100020: cell010
+    100022: cell011
+    100024: cell012
+    100026: cell013
+    100028: cell014
+    100030: cell015
+    100032: cell016
+    100034: cell017
+    100036: cell018
+    100038: cell019
+    100040: cell020
+    100042: cell021
+    100044: cell022
+    100046: cell023
+    100048: cell024
+    100050: cell025
+    100052: cell026
+    100054: cell027
+    100056: cell028
+    100058: cell029
+    100060: cell030
+    100062: cell031
+    100064: cell032
+    100066: cell033
+    100068: cell034
+    100070: cell035
+    100072: cell036
+    100074: cell037
+    100076: cell038
+    100078: cell039
+    100080: cell040
+    100082: cell041
+    100084: cell042
+    100086: cell043
+    100088: cell044
+    100090: cell045
+    100092: cell046
+    100094: cell047
+    100096: //RootNode
+    400000: cell000
+    400002: cell001
+    400004: cell002
+    400006: cell003
+    400008: cell004
+    400010: cell005
+    400012: cell006
+    400014: cell007
+    400016: cell008
+    400018: cell009
+    400020: cell010
+    400022: cell011
+    400024: cell012
+    400026: cell013
+    400028: cell014
+    400030: cell015
+    400032: cell016
+    400034: cell017
+    400036: cell018
+    400038: cell019
+    400040: cell020
+    400042: cell021
+    400044: cell022
+    400046: cell023
+    400048: cell024
+    400050: cell025
+    400052: cell026
+    400054: cell027
+    400056: cell028
+    400058: cell029
+    400060: cell030
+    400062: cell031
+    400064: cell032
+    400066: cell033
+    400068: cell034
+    400070: cell035
+    400072: cell036
+    400074: cell037
+    400076: cell038
+    400078: cell039
+    400080: cell040
+    400082: cell041
+    400084: cell042
+    400086: cell043
+    400088: cell044
+    400090: cell045
+    400092: cell046
+    400094: cell047
+    400096: //RootNode
+    2300000: cell000
+    2300002: cell001
+    2300004: cell002
+    2300006: cell003
+    2300008: cell004
+    2300010: cell005
+    2300012: cell006
+    2300014: cell007
+    2300016: cell008
+    2300018: cell009
+    2300020: cell010
+    2300022: cell011
+    2300024: cell012
+    2300026: cell013
+    2300028: cell014
+    2300030: cell015
+    2300032: cell016
+    2300034: cell017
+    2300036: cell018
+    2300038: cell019
+    2300040: cell020
+    2300042: cell021
+    2300044: cell022
+    2300046: cell023
+    2300048: cell024
+    2300050: cell025
+    2300052: cell026
+    2300054: cell027
+    2300056: cell028
+    2300058: cell029
+    2300060: cell030
+    2300062: cell031
+    2300064: cell032
+    2300066: cell033
+    2300068: cell034
+    2300070: cell035
+    2300072: cell036
+    2300074: cell037
+    2300076: cell038
+    2300078: cell039
+    2300080: cell040
+    2300082: cell041
+    2300084: cell042
+    2300086: cell043
+    2300088: cell044
+    2300090: cell045
+    2300092: cell046
+    2300094: cell047
+    3300000: cell000
+    3300002: cell001
+    3300004: cell002
+    3300006: cell003
+    3300008: cell004
+    3300010: cell005
+    3300012: cell006
+    3300014: cell007
+    3300016: cell008
+    3300018: cell009
+    3300020: cell010
+    3300022: cell011
+    3300024: cell012
+    3300026: cell013
+    3300028: cell014
+    3300030: cell015
+    3300032: cell016
+    3300034: cell017
+    3300036: cell018
+    3300038: cell019
+    3300040: cell020
+    3300042: cell021
+    3300044: cell022
+    3300046: cell023
+    3300048: cell024
+    3300050: cell025
+    3300052: cell026
+    3300054: cell027
+    3300056: cell028
+    3300058: cell029
+    3300060: cell030
+    3300062: cell031
+    3300064: cell032
+    3300066: cell033
+    3300068: cell034
+    3300070: cell035
+    3300072: cell036
+    3300074: cell037
+    3300076: cell038
+    3300078: cell039
+    3300080: cell040
+    3300082: cell041
+    3300084: cell042
+    3300086: cell043
+    3300088: cell044
+    3300090: cell045
+    3300092: cell046
+    3300094: cell047
+    4300000: cell047
+    4300002: cell045
+    4300004: cell044
+    4300006: cell043
+    4300008: cell042
+    4300010: cell041
+    4300012: cell040
+    4300014: cell039
+    4300016: cell038
+    4300018: cell037
+    4300020: cell036
+    4300022: cell035
+    4300024: cell034
+    4300026: cell033
+    4300028: cell032
+    4300030: cell031
+    4300032: cell030
+    4300034: cell029
+    4300036: cell028
+    4300038: cell027
+    4300040: cell026
+    4300042: cell025
+    4300044: cell024
+    4300046: cell023
+    4300048: cell022
+    4300050: cell021
+    4300052: cell020
+    4300054: cell019
+    4300056: cell018
+    4300058: cell017
+    4300060: cell016
+    4300062: cell015
+    4300064: cell014
+    4300066: cell013
+    4300068: cell012
+    4300070: cell011
+    4300072: cell010
+    4300074: cell009
+    4300076: cell008
+    4300078: cell007
+    4300080: cell006
+    4300082: cell005
+    4300084: cell004
+    4300086: cell003
+    4300088: cell002
+    4300090: cell001
+    4300092: cell000
+    4300094: cell046
+    7400000: Break
+    7400002: Reset
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Break
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cell000
+        weight: 1
+      - path: cell001
+        weight: 1
+      - path: cell002
+        weight: 1
+      - path: cell003
+        weight: 1
+      - path: cell004
+        weight: 1
+      - path: cell005
+        weight: 1
+      - path: cell006
+        weight: 1
+      - path: cell007
+        weight: 1
+      - path: cell008
+        weight: 1
+      - path: cell009
+        weight: 1
+      - path: cell010
+        weight: 1
+      - path: cell011
+        weight: 1
+      - path: cell012
+        weight: 1
+      - path: cell013
+        weight: 1
+      - path: cell014
+        weight: 1
+      - path: cell015
+        weight: 1
+      - path: cell016
+        weight: 1
+      - path: cell017
+        weight: 1
+      - path: cell018
+        weight: 1
+      - path: cell019
+        weight: 1
+      - path: cell020
+        weight: 1
+      - path: cell021
+        weight: 1
+      - path: cell022
+        weight: 1
+      - path: cell023
+        weight: 1
+      - path: cell024
+        weight: 1
+      - path: cell025
+        weight: 1
+      - path: cell026
+        weight: 1
+      - path: cell027
+        weight: 1
+      - path: cell028
+        weight: 1
+      - path: cell029
+        weight: 1
+      - path: cell030
+        weight: 1
+      - path: cell031
+        weight: 1
+      - path: cell032
+        weight: 1
+      - path: cell033
+        weight: 1
+      - path: cell034
+        weight: 1
+      - path: cell035
+        weight: 1
+      - path: cell036
+        weight: 1
+      - path: cell037
+        weight: 1
+      - path: cell038
+        weight: 1
+      - path: cell039
+        weight: 1
+      - path: cell040
+        weight: 1
+      - path: cell041
+        weight: 1
+      - path: cell042
+        weight: 1
+      - path: cell043
+        weight: 1
+      - path: cell044
+        weight: 1
+      - path: cell045
+        weight: 1
+      - path: cell046
+        weight: 1
+      - path: cell047
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reset
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cell000
+        weight: 1
+      - path: cell001
+        weight: 1
+      - path: cell002
+        weight: 1
+      - path: cell003
+        weight: 1
+      - path: cell004
+        weight: 1
+      - path: cell005
+        weight: 1
+      - path: cell006
+        weight: 1
+      - path: cell007
+        weight: 1
+      - path: cell008
+        weight: 1
+      - path: cell009
+        weight: 1
+      - path: cell010
+        weight: 1
+      - path: cell011
+        weight: 1
+      - path: cell012
+        weight: 1
+      - path: cell013
+        weight: 1
+      - path: cell014
+        weight: 1
+      - path: cell015
+        weight: 1
+      - path: cell016
+        weight: 1
+      - path: cell017
+        weight: 1
+      - path: cell018
+        weight: 1
+      - path: cell019
+        weight: 1
+      - path: cell020
+        weight: 1
+      - path: cell021
+        weight: 1
+      - path: cell022
+        weight: 1
+      - path: cell023
+        weight: 1
+      - path: cell024
+        weight: 1
+      - path: cell025
+        weight: 1
+      - path: cell026
+        weight: 1
+      - path: cell027
+        weight: 1
+      - path: cell028
+        weight: 1
+      - path: cell029
+        weight: 1
+      - path: cell030
+        weight: 1
+      - path: cell031
+        weight: 1
+      - path: cell032
+        weight: 1
+      - path: cell033
+        weight: 1
+      - path: cell034
+        weight: 1
+      - path: cell035
+        weight: 1
+      - path: cell036
+        weight: 1
+      - path: cell037
+        weight: 1
+      - path: cell038
+        weight: 1
+      - path: cell039
+        weight: 1
+      - path: cell040
+        weight: 1
+      - path: cell041
+        weight: 1
+      - path: cell042
+        weight: 1
+      - path: cell043
+        weight: 1
+      - path: cell044
+        weight: 1
+      - path: cell045
+        weight: 1
+      - path: cell046
+        weight: 1
+      - path: cell047
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
